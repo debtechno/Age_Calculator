@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UniversalConverter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Header">Choose your option</string>
+    <string name="BMI">Calculate your BMI</string>
+    <string name="Temp">Convert temperatures</string>
+    <string name="title_activity_bmi">BMI</string>
+    <string name="title_activity_temp">Temp</string>
+    <string name="EnterTemp">Enter temperature</string>
+    <string name="units_prompt">Choose unit</string>
+    <string-array name="units_array">
+        <item>celsius</item>
+        <item>fahrenheit</item>
+        <item>kelvin</item>
+    </string-array>
+    <string name="title_activity_unit_conversion">UnitConversion</string>
+    <string-array name="length_units">
+        <item>inches</item>
+        <item>feet</item>
+        <item>metres</item>
+        <item>yards</item>
+        <item>cm</item>
+        <item>km</item>
+        <item>miles</item>
+    </string-array>
+</resources>

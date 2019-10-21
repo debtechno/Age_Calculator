@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgeCalculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="AgeYr">Enter your age in years</string>
+    <string name="AgeMnth">months</string>
+    <string name="AgeDays">days</string>
+    <string name="dob">Your date of birth:</string>
+</resources>
